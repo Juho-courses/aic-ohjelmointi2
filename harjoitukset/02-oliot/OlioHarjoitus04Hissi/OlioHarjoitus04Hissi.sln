@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlioHarjoitus04Hissi", "OlioHarjoitus04Hissi.csproj", "{AE99A92F-D03B-4E69-87C5-D0A02A50F7B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE99A92F-D03B-4E69-87C5-D0A02A50F7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE99A92F-D03B-4E69-87C5-D0A02A50F7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE99A92F-D03B-4E69-87C5-D0A02A50F7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE99A92F-D03B-4E69-87C5-D0A02A50F7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {288905A5-BF6B-4B0C-B9F9-80E93DB9B002}
+	EndGlobalSection
+EndGlobal
